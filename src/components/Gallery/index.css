@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.bg-container {
+  padding: 30px;
+}
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+}
+.list-item {
+  list-style: none;
+}
